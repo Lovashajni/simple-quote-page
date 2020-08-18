@@ -22,12 +22,14 @@ body {
 }
 
 .quote {
-  font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.5rem; 
+  font-family: Ariel, sans-serif;
+  font-size: 2.5rem;
+  font-style: oblique;
+  color: darkslategrey 
 }
 
 .author {
-  font-family: 'Crimson Text', serif;
+  font-family: Arial, serif;
   font-size: 1.5rem;
   font-style: italic;
 } 
